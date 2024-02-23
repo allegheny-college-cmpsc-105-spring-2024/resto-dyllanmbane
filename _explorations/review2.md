@@ -6,6 +6,8 @@ permalink: explorations/review2
 nav: true
 ---
 
+[Restaurant Website](https://allegheny-college-cmpsc-105-spring-2024.github.io/resto-dyllanmbane/)
+
 Lettuce can be grown with hydroponics.
 
 - TODO: pretending that you ate at the restaurant, write a

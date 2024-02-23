@@ -5,6 +5,8 @@ permalink: explorations/analytics
 nav: true
 ---
 
+![plot](./assets/images/google-image.png)
+
 TODO: Look at your analytics data. Write about the
 different sources of data contributing to the analytics automatic dashboards.
 If you were a real restaurant owner, explain how this information could help

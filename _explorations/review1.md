@@ -1,10 +1,15 @@
 ---
 layout: post
-# TODO: update the title inside the quotes to suit your restaurant review needs
+# : update the title inside the quotes to suit your restaurant review needs
 title: "rev 1"
 permalink: explorations/review1
 nav: true
 ---
+Shelly Duvual: 
+
+My experience at Restaurants of Regions was exciting and introduced to so many new delucius foods. 
+
+[Restaurant Website](https://allegheny-college-cmpsc-105-spring-2024.github.io/resto-dyllanmbane/)
 
 Rabbits like lettuce.
 
