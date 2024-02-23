@@ -3,8 +3,6 @@ layout: post
 title: "about"
 ---
 
-![logo](./assets/images/magnifying-glass-logo.jpeg){:width="200"}
-
 # Resterant of Regions 
 
 ## ABOUT 
