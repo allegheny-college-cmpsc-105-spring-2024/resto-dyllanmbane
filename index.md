@@ -1,9 +1,7 @@
 ---
 layout: post
-title: "about"
+title: "Restaurant of Regions"
 ---
-
-# Resterant of Regions 
 
 ## ABOUT 
 
