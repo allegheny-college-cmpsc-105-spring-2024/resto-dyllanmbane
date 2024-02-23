@@ -7,9 +7,4 @@ nav: true
 
 ![plot](./assets/images/google-image.png)
 
-TODO: Look at your analytics data. Write about the
-different sources of data contributing to the analytics automatic dashboards.
-If you were a real restaurant owner, explain how this information could help
-you improve your business and why you came to your conclusions.
-
-TODO: include at least one analytics plot to back up your claims.
+Given the present state of my website data, there has been a scarcity of activity, resulting in a constrained collection of information. One aspect I can touch on is the information relating to the new users. From the plot you can see that the amount of users is the same as the new users, since it has only been me who has visited the website. You can see the first spike up is when I made the site and visited it and the other two following after. There is data that pertains to the amount of activity and engagement from my website, but it is extremely low. Right now it is at 1 second because I only go on the site for a small period of time since I cannot make any changes directly on it. When I created the website the amount of users was at its peak being two times. After more people join the site collecting data that can be analyzed to tell a story will be a lot. As of now the biggest thing we can tell is that the most activity was seen on the day the site was made. 

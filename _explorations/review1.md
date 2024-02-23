@@ -7,16 +7,6 @@ nav: true
 ---
 Shelly Duvual: 
 
-My experience at Restaurants of Regions was exciting and introduced to so many new delucius foods. 
+My experience at Restaurant of Regions was exciting and introduced me to many new delicious foods. My meal of choice was the Philly Cheesesteak with a side of fries and a Japanese Highball for my drink. The best part of my meal had to be the main dish, the philly cheesesteak tasted like the ones I have tried in Philly. It was well cooked and the use of vegetables and sauces made for a good mix with the beef. The variety of options when I came to choosing my main dish was something I really enjoyed. I could go from having food in America to eating dishes from Africa and Fusions from a multitude of countries. My choice of drink, Japanese Highball, was something I usually don't drink but I enjoyed it. If you are someone who does not enjoy drinking too much then you should probably stay away from the asian mixed drinks as they can be strong and large in size. 
 
 [Restaurant Website](https://allegheny-college-cmpsc-105-spring-2024.github.io/resto-dyllanmbane/)
-
-Rabbits like lettuce.
-
-- TODO: pretending that you ate at the restaurant, write a
-  paragraph review as a food critic and restaurant owner.
-  - gatorgrade will check for at least 150 words.
-  - NB that something you write will be quoted later by the author
-  of the website.
-- TODO: make a link in markdown to the site that you reviewed
-- TODO: push your changes and make sure that the link works online!

@@ -110,12 +110,12 @@ Resterant of Regions prioritizes its customers experince in foods from regions a
 
 ## Dishes 
 
-### <span style="color:">*Sandwhichs* </span>
+### <span style="color:">*Sandwiches* </span>
 
 - Philly Chessesteak (12.50)
 - All American Burger (13.00)
 - Bacon Egg and Cheese (10.00)
-- Bread and Beans Sandwhich (12.50)
+- Bread and Beans Sandwich (12.50)
 
 ### <span style="color:">*Main Dishes* </span>
 
@@ -129,6 +129,17 @@ Resterant of Regions prioritizes its customers experince in foods from regions a
 - Ugali, Nyama choma with sukama wiki [19.50]
 - Tamales and Coco Rice [15.50]
 - Locro with flat bread [16.50]
+
+### <span style="color:">*Fusions* </span>
+
+- Simple Korean Kimchi BBQ Burgers 
+- Mexican Pizza 
+- Grilled Jerk Tofu with Pinapple Salsa 
+- Banh Mi Chay Dog 
+- Asain Egg Crepes
+- Sea Bass with Spaetzle 
+- Japanese 7 Spice Brisket Sandwiches 
+- Cajun Green Bean Casserole 
 
 ### <span style="color:">*Drinks* </span>
 
